@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,KACI,qEAA+D,CAC/D,qBAGJ","file":"main.c273d688.chunk.css","sourcesContent":["body {\r\n    background-image: url(./assets/heroes/marvel_dc_Background.jpg); \r\n    background-size: cover;\r\n  \r\n    \r\n}"]}
