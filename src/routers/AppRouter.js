@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,  //Antes era BrowserRouter pero para evitar el error 404 al recargar la página en netliify se cambió el nombre a este.
     Switch,
   } from "react-router-dom";
 import { AuthContext } from '../auth/AuthContext';
