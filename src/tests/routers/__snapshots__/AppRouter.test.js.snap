@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing AppRouter.js should show login if it is not authenticated 1`] = `
+<div>
+  <div
+    className="container mt-5"
+  >
+    <h1>
+      Login
+    </h1>
+    <hr />
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="form-group"
+      >
+        <input
+          className="form-control"
+          id="exampleInputText1"
+          name="userName"
+          onChange={[Function]}
+          placeholder="Write your name"
+          type="text"
+          value=""
+        />
+      </div>
+      <button
+        className="btn btn-primary"
+        type="submit"
+      >
+         Login 
+      </button>
+    </form>
+  </div>
+</div>
+`;
